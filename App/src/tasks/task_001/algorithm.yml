@@ -1,0 +1,19 @@
+# algorithm.yml
+
+Classes:
+  - Lamp
+  - Human
+  - Traffic-ligth
+
+Methods of Class:
+  - Lamp:
+    - Light_on: ".light_on"
+    - Light_off: ".light_off"
+    - Job_time: ".job_time = 5sec"
+  - Traffic-ligth:
+    - Random_color: ".random_color"
+      - description: "First step is choose color random only."
+    - Swith_lamp : ".swith_lamp"
+
+# lamps(a,b,c,r)
+# 
