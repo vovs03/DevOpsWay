@@ -1,7 +1,8 @@
 # Inspiration [Вдохновение]
 
-## Dreams
+- :penguin: [Penguin - emoji](https://emojipedia.org/penguin/)
 
+## Dreams
 
 ### Color repository-informer
 
