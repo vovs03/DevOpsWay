@@ -1,0 +1,25 @@
+# ic-utility.yml
+
+Utility:
+  Name          : "ic-utility"
+  Description   : "Print in the Linux terminal color-info about a project(repository)"
+
+  Author        : Vladimir Pavlychev
+
+  Notes-date    : 2019.09.28 
+    - Time      : 22.11
+
+  Os-Family     : Deb-systems
+  Os:           : Linux
+    - Currently : Linux Mint
+      - version : 19
+
+# Использование / Назначение
+Usage: 
+ - Get meta data from repo & print color-info
+ Visability: Just informer
+   - Name repository  
+   - Maintainer
+   - Authors
+   - Commits
+   # Also maybe something else
